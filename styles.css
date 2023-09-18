@@ -1,0 +1,29 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    border: 5px brown dotted;
+    display: flex;
+}
+
+.pink, .violet, .turquoise, .seagreen, .thistle {
+    width: 200px;
+    border: 5px gray solid;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.turquoise {
+    background-color: turquoise;
+}
+
+.seagreen {
+    background-color: seagreen;
+}
